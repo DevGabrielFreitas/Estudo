@@ -12,3 +12,4 @@ C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\refint
 C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.pdb
 C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.genruntimeconfig.cache
 C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\ref\phellowrld.dll
+c:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.sourcelink.json
