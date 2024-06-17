@@ -1,0 +1,14 @@
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\bin\Debug\net8.0\phellowrld.exe
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\bin\Debug\net8.0\phellowrld.deps.json
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\bin\Debug\net8.0\phellowrld.runtimeconfig.json
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\bin\Debug\net8.0\phellowrld.dll
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\bin\Debug\net8.0\phellowrld.pdb
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.AssemblyInfoInputs.cache
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.AssemblyInfo.cs
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.dll
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\refint\phellowrld.dll
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.pdb
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\phellowrld.genruntimeconfig.cache
+C:\Users\gabriel.freitas\Estudo\estudosvscode\phellowrld\obj\Debug\net8.0\ref\phellowrld.dll
