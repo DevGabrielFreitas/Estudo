@@ -1,4 +1,5 @@
-﻿using System.Net.Http.Headers;
+﻿using System.ComponentModel;
+using System.Net.Http.Headers;
 
 namespace phellowrld;
 
@@ -6,12 +7,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        int nota1 = 9;
-        int nota2 = 8;
-        int media = (nota1 + nota2)/2;
-        if (media > 7)
-            Console.WriteLine("Aprovado!");
+        Console.WriteLine("Qual a nota da primeira prova realizada?");
+        var nota1 = Console.ReadLine();
+        Console.WriteLine("E qual a nota da segunda prova realizada?");
+        var nota2 = Console.ReadLine();
+        
+        var media = (int.Parse(nota1) + int.Parse(nota2))/2;
+
+        if (media > 7) 
+            Console.WriteLine("Aprovado! Sua média é:" + media);
         else if (media < 7)
-            Console.WriteLine("Reprovado!");
+            Console.WriteLine("Reprovado! Sua média foi: " + media);
     }
 }
