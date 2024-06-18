@@ -16,7 +16,10 @@ class Program
 
         if (media > 7) 
             Console.WriteLine("Aprovado! Sua média é:" + media);
-        else if (media < 7)
-            Console.WriteLine("Reprovado! Sua média foi: " + media);
+        else
+            if (media > 5)
+                Console.WriteLine("Recuperação! Sua média foi: " + media);
+            else if (media < 5)
+                Console.WriteLine("Reprovado! Sua média foi: " + media);
     }
 }
