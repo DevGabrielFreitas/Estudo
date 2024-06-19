@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj": {}
+    "C:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj": {
+    "C:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj",
         "projectName": "phellowrld",
-        "projectPath": "c:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj",
+        "projectPath": "C:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\phellowrld.csproj",
         "packagesPath": "C:\\Users\\gabriel.freitas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\obj\\",
+        "outputPath": "C:\\Users\\gabriel.freitas\\Estudo\\estudosvscode\\phellowrld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriel.freitas\\AppData\\Roaming\\NuGet\\NuGet.Config",
